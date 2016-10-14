@@ -20,7 +20,7 @@ pio lib -g install ESP8266wifi
 
 - Dimming module (Make the one attached, it was made by my neighbour) or buy some cheap on AliExpress/eBay and change the code if needed
 
-![Dimming module scheme]()
+![Dimming module scheme](images/DimmingModule.jpg?raw=true)
 
 ## Getting started
 
