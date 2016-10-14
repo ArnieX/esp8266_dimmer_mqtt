@@ -1,5 +1,7 @@
 # ESP8266 (NodeMCU) dimmer control
 
+This project is next step of my [relay control project](https://github.com/ArnieX/esp8266_relay_mqtt) where I controled only ON/OFF state of the LED Strip. I hope that following this README will be as straightforward as possible. In case you have questions do not hesitate to contact me using [Issues](https://github.com/ArnieX/esp8266_dimmer_mqtt/issues).
+
 ## Dependencies
 - Some MQTT server (If you have Raspberry Pi use Mosquitto)
 - Optional is [Homebridge](https://github.com/nfarina/homebridge) with [MQTT Plugin](https://github.com/cflurin/homebridge-mqtt) to control the relay from iDevices
